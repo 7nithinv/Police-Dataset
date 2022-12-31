@@ -1,0 +1,5 @@
+1. Remove the columns that contain only null values
+2. For Speeding, were men or women stopped more often
+3. Does gender affect who gets searched during a stop
+4. What is the mean stop duration?
+5. Compare the age distribution for each violation
